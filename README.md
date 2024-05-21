@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <b>Tech nerd passionate about expanding programming skills into various languages and domains.</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RishavOsaurus)](https://git.io/streak-stats)
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
