@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Rishav Chapagain
 
 <!--
 **RishavOsaurus/RishavOsaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<b>Tech nerd passionate about expanding programming skills into various languages and domains.</b>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RishavOsaurus)](https://git.io/streak-stats)
